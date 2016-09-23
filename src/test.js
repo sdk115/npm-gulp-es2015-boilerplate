@@ -1,1 +1,1 @@
-import * as insta from 'instamedia.js';
+import * as project from 'yourprojectname.js';

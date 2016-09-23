@@ -1,7 +1,7 @@
-import * as instamedia from './src/instamedia';
+import * as YOUR_PROJECTNAME from './src/yourprojectname.js';
 
 // Same work.
-// const instamedia = require('./instamedia');
+// const YOUR_PROJECTNAME = require('./YOUR_PROJECTNAME');
 
-// export default instamedia; //???
-module.exports = instamedia
+// export default YOUR_PROJECTNAME; //???
+module.exports = YOUR_PROJECTNAME
